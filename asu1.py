@@ -1,3 +1,5 @@
+echo
+echo
 apt install update
 apt install upgrade
 pkg install mc
