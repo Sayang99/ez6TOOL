@@ -55,16 +55,16 @@ echo ๏I.CONTAC ME.I๏ | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo  | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
-echo ๏I.MY WA.๛..082288907664.I๏ | lolcat -a -d 10
+echo ๏I.MY WA.๛..08228890****.I๏ | lolcat -a -d 10
 echo ๏I.MY FB.๛.noname.noname.I๏ | lolcat -a -d 10
 echo ๏I.MY IG.๛.ekazeroone....I๏ | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
 sleep 1
-echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo ๏I.INSTALING I๏ | lolcat -a -d 10
-echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 apt update && apt upgrade
 apt install nano
 apt install git
