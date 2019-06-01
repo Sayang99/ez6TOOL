@@ -11,46 +11,56 @@ echo
 python2 asu.py
 echo
 clear
-echo
-echo $cy"WELCOME"
-echo $cy"Tool akan di install dalam 5 detik "
-sleep 1
-toilet -f standard "1" | lolcat
-sleep 1
 clear
-echo
-echo
-echo
-echo
-echo $cy" Tool akan di install dalam 5 detik "
-sleep 1
-toilet -f standard "2" | lolcat
-sleep 1
-echo
-echo
-echo
-echo
-echo $cy"Tool akan di install dalam 5 detik "
-sleep 1
-toilet -f standard "3" | lolcat
-sleep 1
-clear
-echo
-echo
-echo
-echo
-echo $cy"Tool akan di install dalam 5 detik "
-sleep 1
-toilet -f standard "4" | lolcat
-sleep 1
-clear
-echo
-echo
-echo
-echo
-echo $cy"Tool akan di install dalam 5 detik "
-sleep 1
-toilet -f standard "5" | lolcat
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.Start No ROOT.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
+echo ๏I.Username : ekaez01.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.Password : ・・・・I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 20
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.Loading Data.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.Loading 10%.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.Loading 25%.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.Loading 50%.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.Loading 75%.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.Loading 100%I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 10
+date | lolcat | screenfetch -A CrunchBang
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.CONTAC ME.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo  | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.MY WA.๛..082288907664.I๏ | lolcat -a -d 10
+echo ๏I.MY FB.๛.noname.noname.I๏ | lolcat -a -d 10
+echo ๏I.MY IG.๛.ekazeroone....I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
 sleep 1
 apt update && apt upgrade
 apt install nano
@@ -60,7 +70,6 @@ apt install php
 pip2 install mechanize
 pip2 install lolcat
 pip2 install requests
-clear
 echo
 echo $pur"==================="$cy" ============================="
 echo $i"Ôûê"$pu"  AUTHOR  :  E Z 01          "$i"            Ôûê"
