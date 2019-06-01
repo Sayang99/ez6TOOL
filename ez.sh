@@ -8,6 +8,7 @@ pu='\033[37;1m' #purple
 ku='\033[33;1m' #kuning
 echo
 echo
+python2 asu1.py
 python2 asu.py
 echo
 clear
