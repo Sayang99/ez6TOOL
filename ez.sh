@@ -66,10 +66,10 @@ pip2 install requests
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  E Z 01          "$i"                    Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  08228890xxxxx"$i"                Ôûê"
-echo $i"Ôûê"$pu"  TEAM   :  Riza Hidayat"$i"     Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  YouTube E Z 01"$i"                 Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR  :  E Z 01          "$i"            Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp:  08228890xxxxx"$i"               Ôûê"
+echo $i"Ôûê"$pu"  TEAM   :  Riza Hidayat"$i"                 Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE :  YouTube E Z 01"$i"              Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"TOOL SEADANYA:"
