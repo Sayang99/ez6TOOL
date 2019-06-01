@@ -1,4 +1,5 @@
-pkg update && pkg upgrade
+pkg update
+pkg upgrade
 pkg install mc
 pkg install screenfetch
 pkg install neofetch
