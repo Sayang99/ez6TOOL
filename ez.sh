@@ -16,9 +16,9 @@ echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo ๏I.Start No ROOT.I๏ | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo | lolcat -a -d 10
-echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
 echo ๏I.Username : ekaezeroone.I๏ | lolcat -a -d 10
-echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
 echo | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo ๏I.Password : ・・・・I๏ | lolcat -a -d 10
@@ -62,6 +62,9 @@ echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I�
 echo | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
 sleep 1
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
+echo ๏I.INSTALING I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 apt update && apt upgrade
 apt install nano
 apt install git
@@ -70,6 +73,7 @@ apt install php
 pip2 install mechanize
 pip2 install lolcat
 pip2 install requests
+clear
 echo
 echo $pur"==================="$cy" ============================="
 echo $i"Ôûê"$pu"  AUTHOR  :  E Z 01          "$i"            Ôûê"
