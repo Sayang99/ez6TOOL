@@ -12,8 +12,8 @@ python2 asu.py
 echo
 clear
 echo
-toilet -f standard "WELCOME" | lolcat
-echo $red"Tool akan di install dalam 5 detik "
+echo $cy"WELCOME"
+echo $cy"Tool akan di install dalam 5 detik "
 sleep 1
 toilet -f standard "1" | lolcat
 sleep 1
@@ -22,7 +22,7 @@ echo
 echo
 echo
 echo
-echo $red" Tool akan di install dalam 5 detik "
+echo $cy" Tool akan di install dalam 5 detik "
 sleep 1
 toilet -f standard "2" | lolcat
 sleep 1
@@ -30,8 +30,7 @@ echo
 echo
 echo
 echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa ツ"
+echo $cy"Tool akan di install dalam 5 detik "
 sleep 1
 toilet -f standard "3" | lolcat
 sleep 1
@@ -40,8 +39,7 @@ echo
 echo
 echo
 echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa ツ"
+echo $cy"Tool akan di install dalam 5 detik "
 sleep 1
 toilet -f standard "4" | lolcat
 sleep 1
@@ -50,8 +48,7 @@ echo
 echo
 echo
 echo
-echo $red"         Tool akan di install dalam waktu 5 detik"
-echo $red"            harap sabar menunggu yaa ツ"
+echo $cy"Tool akan di install dalam 5 detik "
 sleep 1
 toilet -f standard "5" | lolcat
 sleep 1
@@ -67,9 +64,9 @@ clear
 echo
 echo $pur"==================="$cy" ============================="
 echo $i"Ôûê"$pu"  AUTHOR  :  E Z 01          "$i"            Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  08228890xxxxx"$i"               Ôûê"
-echo $i"Ôûê"$pu"  TEAM   :  Riza Hidayat"$i"                 Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  YouTube E Z 01"$i"              Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp:  08228890xxxxx   "$i"            Ôûê"
+echo $i"Ôûê"$pu"  TEAM    :  Riza Hidayat    "$i"            Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE :  YouTube E Z 01  "$i"            Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"TOOL SEADANYA:"
