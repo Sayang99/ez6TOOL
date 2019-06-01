@@ -16,9 +16,9 @@ echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo ๏I.Start No ROOT.I๏ | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo | lolcat -a -d 10
-echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
-echo ๏I.Username : ekaez01.I๏ | lolcat -a -d 10
-echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
+echo ๏I.Username : ekaezeroone.I๏ | lolcat -a -d 10
+echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏| lolcat -a -d 10
 echo | lolcat -a -d 10
 echo ๏I๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏๏I๏ | lolcat -a -d 10
 echo ๏I.Password : ・・・・I๏ | lolcat -a -d 10
